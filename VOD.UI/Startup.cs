@@ -44,6 +44,7 @@ namespace VOD.UI
                 .AddDefaultUI(UIFramework.Bootstrap4)
                 .AddEntityFrameworkStores<VODContext>();
             services.AddScoped<IDbReadService, DbReadService>();
+            services.AddScoped<IUIReadService, UIReadService>();
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
