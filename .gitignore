@@ -10,5 +10,5 @@
 *.db-wal
 *.ipch
 *.suo
-*.sln
+
 .vs/
