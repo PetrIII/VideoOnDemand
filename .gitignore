@@ -1,0 +1,14 @@
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+
+*.db
+*.opendb
+*.db-shm
+*.db-wal
+*.ipch
+*.suo
+*.sln
+.vs/
