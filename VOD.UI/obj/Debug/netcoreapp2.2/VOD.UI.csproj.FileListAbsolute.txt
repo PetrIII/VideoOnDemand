@@ -39,3 +39,46 @@ D:\Projects\ASP.NET\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp2.2\Razor\Areas\Ide
 D:\Projects\ASP.NET\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
 D:\Projects\ASP.NET\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
 D:\Projects\ASP.NET\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.UI\bin\Debug\netcoreapp2.2\VOD.UI.deps.json
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.UI\bin\Debug\netcoreapp2.2\VOD.UI.runtimeconfig.json
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.UI\bin\Debug\netcoreapp2.2\VOD.UI.runtimeconfig.dev.json
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.UI\bin\Debug\netcoreapp2.2\VOD.UI.dll
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.UI\bin\Debug\netcoreapp2.2\VOD.UI.pdb
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.UI\bin\Debug\netcoreapp2.2\VOD.UI.Views.dll
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.UI\bin\Debug\netcoreapp2.2\VOD.UI.Views.pdb
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.UI\bin\Debug\netcoreapp2.2\VOD.Common.dll
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.UI\bin\Debug\netcoreapp2.2\VOD.Database.dll
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.UI\bin\Debug\netcoreapp2.2\VOD.Common.pdb
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.UI\bin\Debug\netcoreapp2.2\VOD.Database.pdb
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp2.2\VOD.UI.csprojAssemblyReference.cache
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp2.2\VOD.UI.csproj.CoreCompileInputs.cache
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp2.2\VOD.UI.RazorAssemblyInfo.cache
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp2.2\VOD.UI.RazorAssemblyInfo.cs
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp2.2\VOD.UI.AssemblyInfoInputs.cache
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp2.2\VOD.UI.AssemblyInfo.cs
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp2.2\VOD.UI.TagHelpers.input.cache
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp2.2\VOD.UI.TagHelpers.output.cache
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp2.2\VOD.UI.RazorCoreGenerate.cache
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp2.2\VOD.UI.RazorTargetAssemblyInfo.cache
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp2.2\VOD.UI.RazorTargetAssemblyInfo.cs
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp2.2\VOD.UI.Views.pdb
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp2.2\VOD.UI.csproj.CopyComplete
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp2.2\VOD.UI.dll
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp2.2\VOD.UI.pdb
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp2.2\Razor\Views\Membership\Dashboard.g.cshtml.cs
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp2.2\Razor\Views\Membership\_CourseCardPartial.g.cshtml.cs

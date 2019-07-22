@@ -12,3 +12,17 @@ D:\Projects\ASP.NET\VideoOnDemand\VOD.Common\obj\Debug\netcoreapp2.2\VOD.Common.
 D:\Projects\ASP.NET\VideoOnDemand\VOD.Common\obj\Debug\netcoreapp2.2\VOD.Common.pdb
 D:\Projects\ASP.NET\VideoOnDemand\VOD.Common\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
 D:\Projects\ASP.NET\VideoOnDemand\VOD.Common\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.Common\bin\Debug\netcoreapp2.2\VOD.Common.deps.json
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.Common\bin\Debug\netcoreapp2.2\VOD.Common.dll
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.Common\bin\Debug\netcoreapp2.2\VOD.Common.pdb
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.Common\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.Common\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Stores.dll
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.Common\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.Common\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Stores.xml
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.Common\obj\Debug\netcoreapp2.2\VOD.Common.csprojAssemblyReference.cache
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.Common\obj\Debug\netcoreapp2.2\VOD.Common.csproj.CoreCompileInputs.cache
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.Common\obj\Debug\netcoreapp2.2\VOD.Common.AssemblyInfoInputs.cache
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.Common\obj\Debug\netcoreapp2.2\VOD.Common.AssemblyInfo.cs
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.Common\obj\Debug\netcoreapp2.2\VOD.Common.csproj.CopyComplete
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.Common\obj\Debug\netcoreapp2.2\VOD.Common.dll
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.Common\obj\Debug\netcoreapp2.2\VOD.Common.pdb

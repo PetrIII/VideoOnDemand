@@ -16,3 +16,21 @@ D:\Projects\ASP.NET\VideoOnDemand\VOD.Database\obj\Debug\netcoreapp2.2\VOD.Datab
 D:\Projects\ASP.NET\VideoOnDemand\VOD.Database\obj\Debug\netcoreapp2.2\VOD.Database.pdb
 D:\Projects\ASP.NET\VideoOnDemand\VOD.Database\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
 D:\Projects\ASP.NET\VideoOnDemand\VOD.Database\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.Database\bin\Debug\netcoreapp2.2\VOD.Database.deps.json
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.Database\bin\Debug\netcoreapp2.2\VOD.Database.runtimeconfig.json
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.Database\bin\Debug\netcoreapp2.2\VOD.Database.runtimeconfig.dev.json
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.Database\bin\Debug\netcoreapp2.2\VOD.Database.dll
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.Database\bin\Debug\netcoreapp2.2\VOD.Database.pdb
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.Database\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.Database\bin\Debug\netcoreapp2.2\VOD.Common.dll
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.Database\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.Database\bin\Debug\netcoreapp2.2\VOD.Common.pdb
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.Database\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.EntityFrameworkCore.xml
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.Database\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.Database\obj\Debug\netcoreapp2.2\VOD.Database.csprojAssemblyReference.cache
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.Database\obj\Debug\netcoreapp2.2\VOD.Database.csproj.CoreCompileInputs.cache
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.Database\obj\Debug\netcoreapp2.2\VOD.Database.AssemblyInfoInputs.cache
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.Database\obj\Debug\netcoreapp2.2\VOD.Database.AssemblyInfo.cs
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.Database\obj\Debug\netcoreapp2.2\VOD.Database.csproj.CopyComplete
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.Database\obj\Debug\netcoreapp2.2\VOD.Database.dll
+d:\ASP.NET Projects\ASP.NET CORE 2\VideoOnDemand\VOD.Database\obj\Debug\netcoreapp2.2\VOD.Database.pdb

@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\777\\.nuget\\packages\\": {},
+    "C:\\Users\\kbykov\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\ASP.NET\\VideoOnDemand\\VOD.Common\\VOD.Common.csproj",
+      "projectUniqueName": "d:\\ASP.NET Projects\\ASP.NET CORE 2\\VideoOnDemand\\VOD.Common\\VOD.Common.csproj",
       "projectName": "VOD.Common",
-      "projectPath": "D:\\Projects\\ASP.NET\\VideoOnDemand\\VOD.Common\\VOD.Common.csproj",
-      "packagesPath": "C:\\Users\\777\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\ASP.NET\\VideoOnDemand\\VOD.Common\\obj\\",
+      "projectPath": "d:\\ASP.NET Projects\\ASP.NET CORE 2\\VideoOnDemand\\VOD.Common\\VOD.Common.csproj",
+      "packagesPath": "C:\\Users\\kbykov\\.nuget\\packages\\",
+      "outputPath": "d:\\ASP.NET Projects\\ASP.NET CORE 2\\VideoOnDemand\\VOD.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\777\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kbykov\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

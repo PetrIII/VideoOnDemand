@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\ASP.NET\\VideoOnDemand\\VOD.Database\\VOD.Database.csproj": {}
+    "d:\\ASP.NET Projects\\ASP.NET CORE 2\\VideoOnDemand\\VOD.Database\\VOD.Database.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\ASP.NET\\VideoOnDemand\\VOD.Common\\VOD.Common.csproj": {
+    "d:\\ASP.NET Projects\\ASP.NET CORE 2\\VideoOnDemand\\VOD.Common\\VOD.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\ASP.NET\\VideoOnDemand\\VOD.Common\\VOD.Common.csproj",
+        "projectUniqueName": "d:\\ASP.NET Projects\\ASP.NET CORE 2\\VideoOnDemand\\VOD.Common\\VOD.Common.csproj",
         "projectName": "VOD.Common",
-        "projectPath": "D:\\Projects\\ASP.NET\\VideoOnDemand\\VOD.Common\\VOD.Common.csproj",
-        "packagesPath": "C:\\Users\\777\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\ASP.NET\\VideoOnDemand\\VOD.Common\\obj\\",
+        "projectPath": "d:\\ASP.NET Projects\\ASP.NET CORE 2\\VideoOnDemand\\VOD.Common\\VOD.Common.csproj",
+        "packagesPath": "C:\\Users\\kbykov\\.nuget\\packages\\",
+        "outputPath": "d:\\ASP.NET Projects\\ASP.NET CORE 2\\VideoOnDemand\\VOD.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\777\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kbykov\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -56,20 +56,20 @@
         }
       }
     },
-    "D:\\Projects\\ASP.NET\\VideoOnDemand\\VOD.Database\\VOD.Database.csproj": {
+    "d:\\ASP.NET Projects\\ASP.NET CORE 2\\VideoOnDemand\\VOD.Database\\VOD.Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\ASP.NET\\VideoOnDemand\\VOD.Database\\VOD.Database.csproj",
+        "projectUniqueName": "d:\\ASP.NET Projects\\ASP.NET CORE 2\\VideoOnDemand\\VOD.Database\\VOD.Database.csproj",
         "projectName": "VOD.Database",
-        "projectPath": "D:\\Projects\\ASP.NET\\VideoOnDemand\\VOD.Database\\VOD.Database.csproj",
-        "packagesPath": "C:\\Users\\777\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\ASP.NET\\VideoOnDemand\\VOD.Database\\obj\\",
+        "projectPath": "d:\\ASP.NET Projects\\ASP.NET CORE 2\\VideoOnDemand\\VOD.Database\\VOD.Database.csproj",
+        "packagesPath": "C:\\Users\\kbykov\\.nuget\\packages\\",
+        "outputPath": "d:\\ASP.NET Projects\\ASP.NET CORE 2\\VideoOnDemand\\VOD.Database\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\777\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kbykov\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -82,8 +82,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "D:\\Projects\\ASP.NET\\VideoOnDemand\\VOD.Common\\VOD.Common.csproj": {
-                "projectPath": "D:\\Projects\\ASP.NET\\VideoOnDemand\\VOD.Common\\VOD.Common.csproj"
+              "d:\\ASP.NET Projects\\ASP.NET CORE 2\\VideoOnDemand\\VOD.Common\\VOD.Common.csproj": {
+                "projectPath": "d:\\ASP.NET Projects\\ASP.NET CORE 2\\VideoOnDemand\\VOD.Common\\VOD.Common.csproj"
               }
             }
           }
